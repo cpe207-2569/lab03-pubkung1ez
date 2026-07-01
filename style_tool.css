@@ -1,0 +1,47 @@
+.hh{
+    text-align: center;
+    background-color: black;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+.white{
+    color: white;
+}
+.header{
+    font-size:40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.name{
+    font-size:22px;
+}
+.black{
+    color: black;
+}
+.skill{
+    font-size:45px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.squere {
+  border: solid rgb(0, 0, 0);
+  width: 800px;
+  height: 206px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+.squere1{
+  border: solid rgb(0, 0, 0);
+  width: 800px;
+  height: 156px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
